@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    font-family: "Hiragino Kaku Gothic ProN";
+}
+
+.container {
+    width:  900px;
+    padding:0 15px;
+    margin: 0 auto;
+}
+header {
+    width: auto;
+    margin-bottom: 140px;
+}
+
+.title {
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTsrbz8nTctgw3xV7hR_qlh0pyu7IUtSDeQQ&usqp=CAU);
+    background-size: cover;
+    padding: 120px 0 120px 0;
+
+    position: relative;
+}
+
+.title h1 {
+    padding: 120px auto;
+    position:flex;
+    top: 0;
+    text-align: center;
+    margin: 0 auto;
+    color: rgb(255, 0, 200);
+    z-index: 10;
+}
+
+.text {
+    text-align: center;
+    font-weight: normal;
+    font-size: 8px;
+    letter-spacing: 2px;
+    margin-bottom: 140px;
+}
+
+.photo1 {
+    margin: 10% 0 10% 15%;
+    position: relative;
+    }
+
+.text1 {
+    margin: 0 0 0 40%;
+    position: absolute;
+    top: 0;
+    left:0;
+    line-height: 55%;
+}
+
+.photo2 {
+    margin: 0 0 0 20%;
+    position: relative;
+}
+
+.text2 {
+    margin: 0 0 0 35%;
+    position: absolute;
+    top: 0;
+    left:0;
+    line-height: 55%;
+}
+
+.textc {
+    text-align: center;
+    font-weight: normal;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+
+.fi {
+    margin-top: 20%;
+}
+
+.sc {
+    margin-top: 20%;
+    margin-bottom: 40%;
+}
+
+.textl {
+    text-align: center;
+    font-weight: normal;
+    font-size: 8px;
+    letter-spacing: 0px;
+}
+
